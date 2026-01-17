@@ -10,7 +10,6 @@ A production-grade real-time analytics dashboard for TechMart e-commerce platfor
 - **Inventory Management**: Low stock alerts, demand forecasting, and reorder suggestions
 - **Analytics & Reporting**: Hourly sales, top products, customer segments, category performance
 - **Alerts System**: Customizable alerts with severity levels
-- **Export Functionality**: CSV/PDF export for all data
 
 ### Challenge B: Advanced Inventory Management
 - **Demand Forecasting**: Hybrid model using moving averages, trend analysis, and seasonality detection
