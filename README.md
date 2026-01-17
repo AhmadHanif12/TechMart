@@ -14,7 +14,7 @@ A production-grade real-time analytics dashboard for TechMart e-commerce platfor
 ### Challenge B: Advanced Inventory Management
 - **Demand Forecasting**: Hybrid model using moving averages, trend analysis, and seasonality detection
 - **Multi-Supplier Optimization**: Weighted scoring for supplier selection (price 40%, reliability 35%, delivery 25%)
-- **Automated Reorder Suggestions**: AI-powered recommendations based on lead time and safety stock
+- **Automated Reorder Suggestions**: Reorder Suggestions based on low stock
 - **Background Jobs**: Celery tasks for periodic predictions and suggestions
 
 ### Challenge D: Performance Optimization & Scalability
